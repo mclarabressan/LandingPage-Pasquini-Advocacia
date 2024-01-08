@@ -11310,6 +11310,11 @@ section#contact form#contactForm :-ms-input-placeholder {
   color: #ced4da;
 }
 
+section#contact form#contactForm .invalid-feedback {
+  font-family: "Montserrat";
+  font-weight: 650;
+}
+
 .footer {
   text-align: center;
   font-size: 0.9rem;
