@@ -11316,6 +11316,14 @@ section#contact form#contactForm .invalid-feedback {
   font-weight: 650;
 }
 
+h3#ajuda{
+  margin-bottom: 2rem;
+}
+
+div#btn-wpp {
+  margin-bottom: 1rem;
+}
+
 .footer {
   text-align: center;
   font-size: 0.9rem;
